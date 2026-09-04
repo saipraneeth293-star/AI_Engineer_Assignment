@@ -1,0 +1,8 @@
+aiohttp
+python-dotenv
+pandas
+streamlit
+feedparser
+google-genai
+groq
+openai
